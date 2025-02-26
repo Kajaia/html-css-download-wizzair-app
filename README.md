@@ -10,3 +10,17 @@ Download Wizz Air App card challenge
 4. Use this fonts: [Montserrat](https://fonts.google.com/specimen/Montserrat "Title font"), [Source Sans 3](https://fonts.google.com/specimen/Source+Sans+3 "Text font");
 5. Create `style.css` file and start your styling;
 6. Good luck 🤞
+
+## Examples
+
+### Desktop
+
+<img width="100%" src="examples/desktop.png" alt="Desktop" />
+
+### Tablet
+
+<img width="100%" src="examples/tablet.png" alt="Tablet" />
+
+### Smartphone
+
+<img width="100%" src="examples/smartphone.png" alt="Smartphone" />
